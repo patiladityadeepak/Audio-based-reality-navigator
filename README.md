@@ -1,4 +1,5 @@
 Obstacle Detection for the Visually Impaired
+
 📌 Overview
 
 This project is a basic preview of a larger object detection system. It detects obstacles in real-time to assist visually impaired individuals in navigating safely through both indoor and outdoor environments.
